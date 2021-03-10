@@ -1,0 +1,22 @@
+{
+  "name": "glimeshchat",
+  "version": "1.0.0",
+  "description": "A program to view every chat on Glimesh.tv at once",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aMytho/Every-Glimesh-Chat.git"
+  },
+  "author": "aMytho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aMytho/Every-Glimesh-Chat/issues"
+  },
+  "homepage": "https://github.com/aMytho/Every-Glimesh-Chat#readme",
+  "dependencies": {
+    "ws": "^7.4.4"
+  }
+}
